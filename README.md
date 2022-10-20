@@ -1,1 +1,1 @@
-# This repository contains the tasks for the "Advanced HTML" project at Holberton School.
+# This repository contains the tasks for the front end projects at Holberton School.
