@@ -1,0 +1,1 @@
+# This directory contains the tasks for the "Advanced CSS" project at Holberton School.
