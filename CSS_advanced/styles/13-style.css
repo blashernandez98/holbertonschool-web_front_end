@@ -59,7 +59,7 @@ a:hover {
 }
 
 a:active {
-    color: var(--color-dark-grey);
+    color: var(--color-light-grey);
 }
 
 .visually-hidden {
